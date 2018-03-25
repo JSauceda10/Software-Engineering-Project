@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="NutritionMVC.jnlp">
+  <information>
+    <title>NutritionMVC</title>
+    <vendor>dark_</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="NutritionMVC.jar" size="15198302" download="eager" />
+    <jar href="lib\com.lowagie.text-2.1.7.jar" size="1782376" download="eager" />
+    <jar href="lib\dsn.jar" size="18478" download="eager" />
+    <jar href="lib\flying-saucer-pdf-9.0.1.jar" size="105089" download="eager" />
+    <jar href="lib\imap.jar" size="178013" download="eager" />
+    <jar href="lib\mail.jar" size="507849" download="eager" />
+    <jar href="lib\mailapi.jar" size="270835" download="eager" />
+    <jar href="lib\mysql-connector-java-5.1.44-bin.jar" size="999635" download="eager" />
+    <jar href="lib\pop3.jar" size="43991" download="eager" />
+    <jar href="lib\smtp.jar" size="52787" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="NutritionMVC" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="Environment.MainApplication"  name="NutritionMVC" />
+  <update check="always"/>
+</jnlp>

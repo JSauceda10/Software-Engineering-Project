@@ -1,0 +1,262 @@
+<NutritionFacts>
+     <NutrientComponent id="1">
+          <name>Cheerios</name>
+          <group_id>1</group_id>
+          <group_name>Wholemeal cereals and breads, potatoes, pasta and rice</group_name>
+          <serving>28</serving>
+          <calories>100</calories>
+          <fats>2</fats>
+          <cholesterol>0</cholesterol>
+          <sodium>0.14</sodium>
+          <potassium>0.18</potassium>
+          <carbohydrates>20</carbohydrates>
+          <proteins>3</proteins>
+     </NutrientComponent>
+     <NutrientComponent id="2">
+          <name>Fiber One Cereal Original</name>
+          <group_id>1</group_id>
+          <group_name>Wholemeal cereals and breads, potatoes, pasta and rice</group_name>
+          <serving>30</serving>
+          <calories>60</calories>
+          <fats>1</fats>
+          <cholesterol>0</cholesterol>
+          <sodium>0.11</sodium>
+          <potassium>0.11</potassium>
+          <carbohydrates>25</carbohydrates>
+          <proteins>2</proteins>
+     </NutrientComponent>
+     <NutrientComponent id="3">
+          <name>Fiber One 100% Whole Wheat Bread</name>
+          <group_id>1</group_id>
+          <group_name>Wholemeal cereals and breads, potatoes, pasta and rice</group_name>
+          <serving>48</serving>
+          <calories>15</calories>
+          <fats>1.5</fats>
+          <cholesterol>0</cholesterol>
+          <sodium>0.170</sodium>
+          <potassium>0</potassium>
+          <carbohydrates>23</carbohydrates>
+          <proteins>5</proteins>
+     </NutrientComponent>
+     <NutrientComponent id="4">
+          <name>Fiber One Multigrain Bread</name>
+          <group_id>1</group_id>
+          <group_name>Wholemeal cereals and breads, potatoes, pasta and rice</group_name>
+          <serving>48</serving>
+          <calories>110</calories>
+          <fats>1.5</fats>
+          <cholesterol>0</cholesterol>
+          <sodium>0.135</sodium>
+          <potassium>0</potassium>
+          <carbohydrates>25</carbohydrates>
+          <proteins>4</proteins>
+     </NutrientComponent>
+     <NutrientComponent id="5">
+          <name>Fiber One 9 Grain Bread</name>
+          <group_id>1</group_id>
+          <group_name>Wholemeal cereals and breads, potatoes, pasta and rice</group_name>
+          <serving>48</serving>
+          <calories>110</calories>
+          <fats>1.5</fats>
+          <cholesterol>0</cholesterol>
+          <sodium>0.135</sodium>
+          <potassium>0</potassium>
+          <carbohydrates>25</carbohydrates>
+          <proteins>4</proteins>
+     </NutrientComponent>
+     <NutrientComponent id="6">
+          <name>Honey Bunches of Oats Honey Roasted</name>
+          <group_id>1</group_id>
+          <group_name>Wholemeal cereals and breads, potatoes, pasta and rice</group_name>
+          <serving>30</serving>
+          <calories>120</calories>
+          <fats>1.5</fats>
+          <cholesterol>0</cholesterol>
+          <sodium>0.135</sodium>
+          <potassium>0.055</potassium>
+          <carbohydrates>25</carbohydrates>
+          <proteins>2</proteins>
+     </NutrientComponent>
+     <NutrientComponent id="7">
+          <name>Riceland Extral Long Grain Brown Rice</name>
+          <group_id>1</group_id>
+          <group_name>Wholemeal cereals and breads, potatoes, pasta and rice</group_name>
+          <serving>42</serving>
+          <calories>150</calories>
+          <fats>1</fats>
+          <cholesterol>0</cholesterol>
+          <sodium>0</sodium>
+          <potassium>0.1</potassium>
+          <carbohydrates>32</carbohydrates>
+          <proteins>3</proteins>
+     </NutrientComponent>
+     <NutrientComponent id="8">
+          <name>Great Value Brown Rice</name>
+          <group_id>1</group_id>
+          <group_name>Wholemeal cereals and breads, potatoes, pasta and rice</group_name>
+          <serving>45</serving>
+          <calories>160</calories>
+          <fats>1.5</fats>
+          <cholesterol>0</cholesterol>
+          <sodium>0</sodium>
+          <potassium>0.1</potassium>
+          <carbohydrates>35</carbohydrates>
+          <proteins>4</proteins>
+     </NutrientComponent>
+     <NutrientComponent id="9">
+          <name>Great Value 100% Whole Wheat Bread</name>
+          <group_id>1</group_id>
+          <group_name>Wholemeal cereals and breads, potatoes, pasta and rice</group_name>
+          <serving>28</serving>
+          <calories>60</calories>
+          <fats>1</fats>
+          <cholesterol>0</cholesterol>
+          <sodium>0.120</sodium>
+          <potassium>0.060</potassium>
+          <carbohydrates>12</carbohydrates>
+          <proteins>3</proteins>
+     </NutrientComponent>
+     <NutrientComponent id="10">
+          <name>Great Value Multi-Grain Bread</name>
+          <group_id>1</group_id>
+          <group_name>Wholemeal cereals and breads, potatoes, pasta and rice</group_name>
+          <serving>45</serving>
+          <calories>120</calories>
+          <fats>1.5</fats>
+          <cholesterol>0</cholesterol>
+          <sodium>0.190</sodium>
+          <potassium>0.095</potassium>
+          <carbohydrates>24</carbohydrates>
+          <proteins>5</proteins>
+     </NutrientComponent>
+     <NutrientComponent id="11">
+          <name>HEB 100% Whole Grain Brown Rice</name>
+          <group_id>1</group_id>
+          <group_name>Wholemeal cereals and breads, potatoes, pasta and rice</group_name>
+          <serving>42</serving>
+          <calories>150</calories>
+          <fats>1</fats>
+          <cholesterol>0</cholesterol>
+          <sodium>0</sodium>
+          <potassium>0</potassium>
+          <carbohydrates>32</carbohydrates>
+          <proteins>3</proteins>
+     </NutrientComponent>
+     <NutrientComponent id="12">
+          <name>HEB Bake Shop 100% Whole Wheat Bread</name>
+          <group_id>1</group_id>
+          <group_name>Wholemeal cereals and breads, potatoes, pasta and rice</group_name>
+          <serving>28</serving>
+          <calories>60</calories>
+          <fats>1</fats>
+          <cholesterol>0</cholesterol>
+          <sodium>0.085</sodium>
+          <potassium>0.090</potassium>
+          <carbohydrates>11</carbohydrates>
+          <proteins>3</proteins>
+     </NutrientComponent>
+     <NutrientComponent id="13">
+          <name>HEB Essential Grains 12 Grain Bread</name>
+          <group_id>1</group_id>
+          <group_name>Wholemeal cereals and breads, potatoes, pasta and rice</group_name>
+          <serving>45</serving>
+          <calories>120</calories>
+          <fats>2</fats>
+          <cholesterol>0</cholesterol>
+          <sodium>0.190</sodium>
+          <potassium>0</potassium>
+          <carbohydrates>22</carbohydrates>
+          <proteins>6</proteins>
+     </NutrientComponent>
+     <NutrientComponent id="14">
+          <name>Skinny Pop Original Popped Popcorn</name>
+          <group_id>1</group_id>
+          <group_name>Wholemeal cereals and breads, potatoes, pasta and rice</group_name>
+          <serving>28</serving>
+          <calories>150</calories>
+          <fats>10</fats>
+          <cholesterol>0</cholesterol>
+          <sodium>0.075</sodium>
+          <potassium>0</potassium>
+          <carbohydrates>15</carbohydrates>
+          <proteins>2</proteins>
+     </NutrientComponent>
+     <NutrientComponent id="15">
+          <name>Orville Redenbacher's Naturals Simply Salted</name>
+          <group_id>1</group_id>
+          <group_name>Wholemeal cereals and breads, potatoes, pasta and rice</group_name>
+          <serving>35</serving>
+          <calories>170</calories>
+          <fats>11</fats>
+          <cholesterol>0</cholesterol>
+          <sodium>0.4</sodium>
+          <potassium>0.065</potassium>
+          <carbohydrates>17</carbohydrates>
+          <proteins>2</proteins>
+     </NutrientComponent>
+     <NutrientComponent id="16">
+          <name>Honey Bunches of Oats Protein Granola with Dark Chocolate</name>
+          <group_id>1</group_id>
+          <group_name>Wholemeal cereals and breads, potatoes, pasta and rice</group_name>
+          <serving>50</serving>
+          <calories>220</calories>
+          <fats>7</fats>
+          <cholesterol>0</cholesterol>
+          <sodium>0.095</sodium>
+          <potassium>0.16</potassium>
+          <carbohydrates>32</carbohydrates>
+          <proteins>9</proteins>
+     </NutrientComponent>
+     <NutrientComponent id="17">
+          <name>Natural Valley Baked Oat Bites Cereal</name>
+          <group_id>1</group_id>
+          <group_name>Wholemeal cereals and breads, potatoes, pasta and rice</group_name>
+          <serving>24</serving>
+          <calories>210</calories>
+          <fats>6</fats>
+          <cholesterol>0</cholesterol>
+          <sodium>0.160</sodium>
+          <potassium>0.105</potassium>
+          <carbohydrates>34</carbohydrates>
+          <proteins>7</proteins>
+     </NutrientComponent>
+     <NutrientComponent id="18">
+          <name>Natural Valley Protein Oatmeal Maple Pecan Crunch</name>
+          <group_id>1</group_id>
+          <group_name>Wholemeal cereals and breads, potatoes, pasta and rice</group_name>
+          <serving>48</serving>
+          <calories>290</calories>
+          <fats>8</fats>
+          <cholesterol>0</cholesterol>
+          <sodium>0.150</sodium>
+          <potassium>0.210</potassium>
+          <carbohydrates>47</carbohydrates>
+          <proteins>10</proteins>
+     </NutrientComponent>
+     <NutrientComponent id="19">
+          <name>Natural Valley Oats 'N Honey Crunchy Granola Bars</name>
+          <group_id>1</group_id>
+          <group_name>Wholemeal cereals and breads, potatoes, pasta and rice</group_name>
+          <serving>16</serving>
+          <calories>190</calories>
+          <fats>7</fats>
+          <cholesterol>0</cholesterol>
+          <sodium>0.180</sodium>
+          <potassium>0</potassium>
+          <carbohydrates>29</carbohydrates>
+          <proteins>3</proteins>
+     </NutrientComponent>
+     <NutrientComponent id="20">
+          <name>Erin Baker's Granola Oatmeal Rasin</name>
+          <group_id>1</group_id>
+          <group_name>Wholemeal cereals and breads, potatoes, pasta and rice</group_name>
+          <serving>55</serving>
+          <calories>250</calories>
+          <fats>9</fats>
+          <cholesterol>0</cholesterol>
+          <sodium>0.01</sodium>
+          <potassium>0</potassium>
+          <carbohydrates>38</carbohydrates>
+          <proteins>5</proteins>
+     </NutrientComponent>
+</NutritionFacts>
